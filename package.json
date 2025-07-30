@@ -1,0 +1,22 @@
+{
+  "name": "tp_modelo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GersonESantos/TP_Modelo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GersonESantos/TP_Modelo/issues"
+  },
+  "homepage": "https://github.com/GersonESantos/TP_Modelo#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
