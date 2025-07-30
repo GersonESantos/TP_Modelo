@@ -10,4 +10,4 @@ mkdir src
 
 mkdir dist
 
-#### Configurando ambiente Typescript [YT ](https://www.youtube.com/watch?v=_cbT-K1oHXM)
+#### Configurando ambiente Typescript [YouTube ](https://www.youtube.com/watch?v=_cbT-K1oHXM)
